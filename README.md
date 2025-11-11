@@ -6,7 +6,7 @@ This is being compiled into applications with TurboWarp Packager.
 
 # THIS IS A SIDE PROJECT. UPDATES MAY BE DELAYED
 
-Early Access: "https://scratch.mit.edu/projects/1228473195/" an html and windows/mac app will be made soon
+Early Access: "https://thegamesystems.github.io/Stick-Platformer/demo.html" an html and windows/mac app will be made soon
 
 
 
